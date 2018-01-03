@@ -12,9 +12,9 @@
       </td>
     </tr>
     <tr class="~[evenoddrow]">
-      <td class="bold"><label for="extra_school_codes.hmh">HMH</label></td>
+      <td class="bold"><label for="extra_school_codes.hrw">HRW</label></td>
       <td>
-        <input type="text" name="[Schools.U_SCHOOL_CODES]HMH" id="extra_school_codes.hmh" value="" size="10" maxlength="8">
+        <input type="text" name="[Schools.U_SCHOOL_CODES]HRW" id="extra_school_codes.hrw" value="" size="10" maxlength="8">
       </td>
     </tr>
     <tr class="~[evenoddrow]">
