@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<psExtension xmlns="http://www.powerschool.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.powerschool.com psextension.xsd">
+  <extensionname>U_SCHOOL_CODES</extensionname>
+  <extendedTable coreTable="SCHOOLS" dbTableName="U_SCHOOL_CODES" comment="">
+    <field name="ACT" type="String" length="8"/>
+    <field name="HMH" type="String" length="8"/>
+    <field name="STMATH" type="String" length="8"/>
+  </extendedTable>
+</psExtension>

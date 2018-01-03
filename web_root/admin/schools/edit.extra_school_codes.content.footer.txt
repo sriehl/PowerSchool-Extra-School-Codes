@@ -1,0 +1,28 @@
+<!-- Extra School Codes -->
+<div class="box-round">
+  <h2>Extra School Codes</h2>
+  <table border="0">
+    <colgroup>
+      <col />
+    </colgroup>
+    <tr class="~[evenoddrow;reset]">
+      <td class="bold"><label for="extra_school_codes.ACT">ACT</label></td>
+      <td>
+        <input type="text" name="[Schools.U_SCHOOL_CODES]ACT" id="extra_school_codes.act" value="" size="10" maxlength="6">
+      </td>
+    </tr>
+    <tr class="~[evenoddrow]">
+      <td class="bold"><label for="extra_school_codes.hmh">HMH</label></td>
+      <td>
+        <input type="text" name="[Schools.U_SCHOOL_CODES]HMH" id="extra_school_codes.hmh" value="" size="10" maxlength="8">
+      </td>
+    </tr>
+    <tr class="~[evenoddrow]">
+      <td class="bold"><label for="extra_school_codes.stmath">ST Math</label></td>
+      <td>
+        <input type="text" name="[Schools.U_SCHOOL_CODES]STMATH" id="extra_school_codes.stmath" value="" size="10" maxlength="6">
+      </td>
+    </tr>
+  </table>
+</div>
+<!-- END Extra School Codes -->

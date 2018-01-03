@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://plugin.powerschool.pearson.com"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://plugin.powerschool.pearson.com plugin.xsd"
+        name="Extra School Codes"
+        version="1.0"
+        description="">
+  <autoinstall required="true">
+    <autoenable required="true" />
+    <autoredeploy />
+  </autoinstall>
+  <publisher name="Steven Riehl">
+    <contact email="riehls@billingsschools.org" />
+  </publisher>
+</plugin>
