@@ -4,6 +4,7 @@
   <extendedTable coreTable="SCHOOLS" dbTableName="U_SCHOOL_CODES" comment="">
     <field name="ACT" type="String" length="8"/>
     <field name="HRW" type="String" length="8"/>
+    <field name="SIRSI" type="String" length="10"/>
     <field name="STMATH" type="String" length="8"/>
   </extendedTable>
 </psExtension>

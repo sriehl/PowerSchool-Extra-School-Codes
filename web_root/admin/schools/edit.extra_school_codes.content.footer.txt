@@ -8,19 +8,29 @@
     <tr class="~[evenoddrow;reset]">
       <td class="bold"><label for="extra_school_codes.ACT">ACT</label></td>
       <td>
-        <input type="text" name="[Schools.U_SCHOOL_CODES]ACT" id="extra_school_codes.act" value="" size="10" maxlength="6">
+        <input type="text" name="[Schools.U_SCHOOL_CODES]ACT" id="extra_school_codes.act" value="" size="10"
+          maxlength="6">
       </td>
     </tr>
     <tr class="~[evenoddrow]">
       <td class="bold"><label for="extra_school_codes.hrw">HRW</label></td>
       <td>
-        <input type="text" name="[Schools.U_SCHOOL_CODES]HRW" id="extra_school_codes.hrw" value="" size="10" maxlength="8">
+        <input type="text" name="[Schools.U_SCHOOL_CODES]HRW" id="extra_school_codes.hrw" value="" size="10"
+          maxlength="8">
+      </td>
+    </tr>
+    <tr class="~[evenoddrow]">
+      <td class="bold"><label for="extra_school_codes.sirsi">Sirsi</label></td>
+      <td>
+        <input type="text" name="[Schools.U_SCHOOL_CODES]SIRSI" id="extra_school_codes.sirsi" value="" size="10"
+          maxlength="10">
       </td>
     </tr>
     <tr class="~[evenoddrow]">
       <td class="bold"><label for="extra_school_codes.stmath">ST Math</label></td>
       <td>
-        <input type="text" name="[Schools.U_SCHOOL_CODES]STMATH" id="extra_school_codes.stmath" value="" size="10" maxlength="6">
+        <input type="text" name="[Schools.U_SCHOOL_CODES]STMATH" id="extra_school_codes.stmath" value="" size="10"
+          maxlength="6">
       </td>
     </tr>
   </table>
