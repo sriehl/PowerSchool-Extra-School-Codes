@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<plugin xmlns="http://plugin.powerschool.pearson.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://plugin.powerschool.pearson.com plugin.xsd" name="Extra School Codes" version="1.2.0" description="Extra Codes for Schools">
+<plugin xmlns="http://plugin.powerschool.pearson.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://plugin.powerschool.pearson.com plugin.xsd" name="Extra School Codes" version="1.3.0" description="Extra Codes for Schools">
   <publisher name="Steven Riehl">
     <contact email="riehls@billingsschools.org"/>
   </publisher>

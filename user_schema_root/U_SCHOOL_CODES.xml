@@ -3,7 +3,9 @@
   <extensionname>U_SCHOOL_CODES</extensionname>
   <extendedTable coreTable="SCHOOLS" dbTableName="U_SCHOOL_CODES" comment="">
     <field name="ACT" type="String" length="8"/>
+    <field name="APEX" type="String" length="8"/>
     <field name="HRW" type="String" length="8"/>
+    <field name="NCES" type="String" length="15"/>
     <field name="SIRSI" type="String" length="10"/>
     <field name="STMATH" type="String" length="8"/>
   </extendedTable>

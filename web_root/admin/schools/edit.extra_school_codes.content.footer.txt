@@ -13,10 +13,24 @@
       </td>
     </tr>
     <tr class="~[evenoddrow]">
+      <td class="bold"><label for="extra_school_codes.APEX">APEX</label></td>
+      <td>
+        <input type="text" name="[Schools.U_SCHOOL_CODES]APEX" id="extra_school_codes.apex" value="" size="10"
+          maxlength="8">
+      </td>
+    </tr>
+    <tr class="~[evenoddrow]">
       <td class="bold"><label for="extra_school_codes.hrw">HRW</label></td>
       <td>
         <input type="text" name="[Schools.U_SCHOOL_CODES]HRW" id="extra_school_codes.hrw" value="" size="10"
           maxlength="8">
+      </td>
+    </tr>
+    <tr class="~[evenoddrow]">
+      <td class="bold"><label for="extra_school_codes.nces">NCES</label></td>
+      <td>
+        <input type="text" name="[Schools.U_SCHOOL_CODES]NCES" id="extra_school_codes.nces" value="" size="15"
+          maxlength="12">
       </td>
     </tr>
     <tr class="~[evenoddrow]">
